@@ -8,5 +8,5 @@ public class Count_Substrings {
              }
          }
          return (strOne*(strOne+1))/2-strOne;
-    }F
+    }
 }

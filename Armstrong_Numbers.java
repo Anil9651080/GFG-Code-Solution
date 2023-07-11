@@ -4,7 +4,8 @@ public class Armstrong_Numbers {
         sum = (int) (Math.pow(n % 10, 3) + Math.pow((n / 10) % 10, 3) + Math.pow((n / 100), 3));
         if (sum == n) {
             return "Yes";
-        } else {
+        } else {Print first n Fibonacci Numbers
+
             return "No";
         }
     }
